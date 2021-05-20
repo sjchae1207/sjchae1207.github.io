@@ -1,7 +1,9 @@
 ---
-title: "Presentations"
-template: "page"
-
+title: Presentation list
+date: "2021-05-21"
+draft: false
+category: "Presentation"
+description: "List of participated presentations"
 ---
 
 ### Presentation(To be updated)
