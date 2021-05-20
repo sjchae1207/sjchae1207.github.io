@@ -2,11 +2,8 @@
 title: Presentation about Transfer Entropy
 date: "2021-05-21"
 draft: false
-slug: "research-interest"
 category: "Presentation"
-tags:
-	- Presentation
-    - Transfer Entropy
+
 description: "Extending Transfer Entropy Improves Identification of Effective Connectivity in a Spiking Cortical Network Model"
 ---
 
