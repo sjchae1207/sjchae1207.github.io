@@ -1,6 +1,6 @@
 module.exports = {
   title: `Seokjoo Chae`,
-  description: `Mathematical biology `,
+  description: `Seokjoo's blog `,
   author: `Seokjoo`,
   introduction: `Ph.D. candidate in Math Bio @ KAIST`,
   siteUrl: `https://sjchae1207.github.io`, // Your blog site url
