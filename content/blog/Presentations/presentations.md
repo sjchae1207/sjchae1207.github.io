@@ -1,7 +1,7 @@
 ---
 title: Presentation list
 date: "2021-05-21"
-draft: false
+draft: true
 category: "Presentation"
 description: "List of participated presentations"
 ---

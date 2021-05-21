@@ -8,7 +8,9 @@ lang: 'en'
 
 I am a graduate student in the Department of Mathematical Sciences at the Korea Advanced Institute of Science and Technology.
 
-Currently, I am pursuing the Ph.D. in mathematics under the supervision of Professor [Jae Kyoung Kim](http://www.google.com/url?q=http%3A%2F%2Fmathsci.kaist.ac.kr%2F~jaekkim%2F&sa=D&sntz=1&usg=AFQjCNEckrp5Ggd6lKnZbhBG32Hnt00HvQ). 
+I am interested in causality detection in biological systems, mathematical modeling of immunotherapy.
+
+My supervisor is [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/) in [IBS Biomedical Mathematics Group](https://www.ibs.re.kr/bimag/).
 
 
 
@@ -35,6 +37,24 @@ Currently, I am pursuing the Ph.D. in mathematics under the supervision of Profe
 2013 Alumni Prize for Great Academic Achievement, Hansung Science High School
 
 2013-2016 The National Scholarship for Science and Engineering(Korea Student Aid Foundation)
+
+### Presentation(To be updated)
+
+2020 Society of Mathematical Biology Annual Meeting Poster
+
+2019 Society of Mathematical Biology Annual Meeting, Mini-symposium, Montreal, Canada
+
+2019 Society of Mathematical Biology Annual Meeting, Poster, Montreal, Canada
+
+2018 Society of Mathematical Biology Annual Meeting Poster, Sydney, Austrailia
+
+2018 Korea Society of Mathematical Biology Annual Meeting Talk, Busan, Korea
+
+2018 IMA Workshop on Ecological and Biological Systems Poster, Minneapolis, USA
+
+2018 A3 International Workshop For Mathematical and Life Sciences Poster, Hiroshima, Japan
+
+2016 KAIST Undergraduate Research Program Workshop Daejeon, Korea
 
 
 

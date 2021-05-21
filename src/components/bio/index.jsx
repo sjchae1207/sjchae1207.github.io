@@ -29,6 +29,9 @@ export const Bio = () => (
                 </Link>
                 <div className="author-introduction">{introduction}</div>
                 <p className="author-socials">
+                  <a href={`https://drive.google.com/file/d/1atstGjeMCU1bTHt5nLaPiGCVOY66CNRh/view`}>
+                      CV
+                  </a>
                   {social.instagram && (
                     <a href={`https://www.instagram.com/${social.instagram}`}>
                       Instagram
