@@ -5,6 +5,8 @@
       value: Seok Joo Chae
     - name: Languages
       value: English, Korean
+    - name: Programming
+      value: MATLAB, Python, NetLogo, R
 
 - title: Education
   type: time_table

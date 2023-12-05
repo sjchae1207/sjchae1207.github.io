@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. candidate in <a href='https://mathsci.kaist.ac.kr/~jaekkim/'>KAIST mathbio lab</a> and <a href='https://www.ibs.re.kr/bimag/'>IBS BIMAG</a>.
+subtitle: Ph.D. candidate in KAIST mathbio lab and IBS BIMAG.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the Department of Mathematical Sciences at the Korea Advanced Institute of Science and Technology (KAIST). 
+I am a graduate student in the Department of Mathematical Sciences at KAIST (Korea Advanced Institute of Science and Technology). 
 
 My research interest lies in analyzing biological systems by mathematical tools. So far, I have worked on mathematical modeling of circadian clocks, analyzing intracellular diffusion of proteins, optimizing immunotherapy, and causality detection in biological systems.
 
