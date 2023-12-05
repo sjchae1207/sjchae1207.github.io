@@ -25,5 +25,5 @@ My research interest lies in analyzing biological systems by mathematical tools.
 
 My supervisor is [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/) in KAIST and [IBS Biomedical Mathematics group](https://www.ibs.re.kr/bimag/).
 
-I am a mathematician by training, I have worked with experimental biologists and doctors.
+Although I am mathematician by training, I have worked with many experimental biologists and doctors.
 
