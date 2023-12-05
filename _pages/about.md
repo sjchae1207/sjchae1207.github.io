@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. candidate in <a href='#'>KAIST mathbio lab</a> and <a href='https://www.ibs.re.kr/bimag/'>IBS BIMAG</a>.
+subtitle: Ph.D. candidate in <a href='https://mathsci.kaist.ac.kr/~jaekkim/'>KAIST mathbio lab</a> and <a href='https://www.ibs.re.kr/bimag/'>IBS BIMAG</a>.
 
 profile:
   align: right
   image: sjsjsj.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>55, Expo-ro, Daejeon</p>
-    <p>Republic of Korea, 34126</p>
+    <p>291, Daehak-ro, Daejeon</p>
+    <p>Daejeon, Korea</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
