@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>291, Daehak-ro, Daejeon</p>
-    <p>Daejeon, Korea</p>
+    <p>Department of Math. Sci.</p>
+    <p>KAIST</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -18,6 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the Department of Mathematical Sciences at the Korea Advanced Institute of Science and Technology (KAIST). I am interested in mathematical modeling of circadian clocks, immunotherapy, and causality detection in biological systems.
-My supervisor is Jae Kyoung Kim in KAIST and IBS Biomedical Mathematics group.
+I am a graduate student in the Department of Mathematical Sciences at the Korea Advanced Institute of Science and Technology (KAIST). My research interest lies in analyzing biological systems by mathematical tools. 
+
+My research topics are mathematical modeling of circadian clocks, analyzing intracellular diffusion of proteins, optimizing immunotherapy, and causality detection in biological systems.
+
+My supervisor is [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/) in KAIST and [IBS Biomedical Mathematics group](https://www.ibs.re.kr/bimag/).
+
+I am a mathematician by training, I have worked with experimental biologists and doctors.
 
