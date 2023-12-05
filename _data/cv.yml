@@ -62,17 +62,36 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Best Poster Award - Korean Biological Rhythm Society Symposium
+    - year: 2021
+      items: 
+        - Best Poster Award - Society for Mathematical Biology Annual meeting
+    - year: 2019
+      items: 
+        - SMB Landahl Travel Grant - Society for Mathematical Biology
+    - year: 2018
+      itmes: 
+        - SMB Landahl Travel Grant - Society for Mathematical Biology
+    - year : 2018
+      items: 
+    	  - 2nd Prize - NIMS-Mathworks MATLAB Challenge
+    - year: 2017
+      items:
+        - TJ Park POSCO Science Fellowship
+		- year : 2016
+      items: 
+			  - Best Poster Award - KAIST Undergraduate Reserach Program Workshop
+	  - year : 2016
+      items:
+			  - Bronze Prize - Korean College Students Mathematical Competition	
+    - year : 2015
+      items:
+        - KAIST Presidential Fellowship - KAIST 
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
