@@ -16,6 +16,7 @@
       year: 2024
       description:
         - "Ph.D. candidate in Mathematical Biology (Advisor: Jae Kyoung Kim)"
+        #Double quote not to make colon(:) result in error
       
     - title: B.Sc.
       institution: KAIST, Republic of Korea
