@@ -1,8 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Seok Joo Chae
+    - name: Name
+      value: Seok Joo Chae (채석주)
     - name: Languages
       value: English, Korean
     - name: Programming
@@ -80,8 +80,6 @@
     - year: 2018
       items: 
         - SMB Landahl Travel Grant - Society for Mathematical Biology
-    - year : 2018
-      items: 
         - 2nd Prize - NIMS-Mathworks MATLAB Challenge
     - year: 2017
       items:
@@ -89,8 +87,6 @@
     - year : 2016
       items: 
         - Best Poster Award - KAIST Undergraduate Reserach Program Workshop
-    - year : 2016
-      items:
         - Bronze Prize - Korean College Student Mathematics Competition
     - year : 2015
       items:
