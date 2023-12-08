@@ -8,8 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 
-<h1>Invited Talks</h1>
+<h3>Invited Talks</h3>
 
 
-<h1>Contributed Talks and Posters</h1>
-- July 14, 2023: Dynamical Systems in the Life Sciences, Poster, Columbus, OH, United States
+<h3>Contributed Talks and Posters</h3>
