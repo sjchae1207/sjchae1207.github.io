@@ -11,7 +11,7 @@ horizontal: false
 <h3>Invited Talks</h3>
 <h4>2023</h4> 
   - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Gwangju, Korea
-  - The 8th CIJK International Conference on Mathematical and Theoretical Biology, Minisymposium, Gyeonju, Korea
+  - The 8th CIJK International Conference on Mathematical and Theoretical Biology, Minisymposium, Jeju, Korea
 <h4>2022</h4>
   - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Jeju, Korea
 <h4>2019</h4>
@@ -23,7 +23,7 @@ horizontal: false
   - International Congress on Industrial and Applied Mathematics, Contributed Talk, Tokyo, Japan
   - Society for Mathematical Biology Annual Meeting, Contributed Talk, Columbus, OH, USA
   - International Conference on Systems Biology, Contributed Talk, Hartford, CT, USA
-  - Korean Biological Rhythm Society Symposium Poster, Daejeon, Korea
+  - Korean Biological Rhythm Society Symposium, Poster, Daejeon, Korea
 <h4>2022</h4>
   - Society for Research on Biological Rhythms, Biennial Meeting Poster, Fernandina Beach, FL, USA
   - International Conference on Systems Biology, Contributed Talk, Berlin, Germany
