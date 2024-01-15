@@ -12,8 +12,6 @@ horizontal: false
 <h4>2023</h4> 
   - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Gwangju, Korea
   - The 8th CIJK International Conference on Mathematical and Theoretical Biology, Minisymposium, Jeju, Korea
-<h4>2022</h4>
-  - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Jeju, Korea
 <h4>2019</h4>
   - Society for Mathematical Biology Annual Meeting, Mini symposium, Montreal, Canada
 
@@ -26,6 +24,7 @@ horizontal: false
   - Korean Biological Rhythm Society Symposium, Poster, Daejeon, Korea
 <h4>2022</h4>
   - Society for Research on Biological Rhythms, Biennial Meeting Poster, Fernandina Beach, FL, USA
+  - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Jeju, Korea
   - International Conference on Systems Biology, Contributed Talk, Berlin, Germany
   - Korean Biological Rhythm Society Symposium, Poster, Daejeon, Korea
 <h4>2021</h4>
