@@ -49,14 +49,40 @@ abstract = {All proteins are translated in the cytoplasm, yet many, including tr
 
 
 
-@unpublished{scLENS,
-title ={(In press for Nature Communications) scLENS : Data-driven signal detection for unbiased scRNA-seq data analysis},
-journal = {Nature Communications},
-author = {Hyun Kim+ and Won Chang and Seok Joo Chae and Jong-Eun Park and Minseok Seo and Jae Kyoung Kim*},
-year = {2024},
-selected = {true}
-
+@ARTICLE{scLENS,
+  title    = "{scLENS}: data-driven signal detection for unbiased {scRNA-seq}
+              data analysis",
+  author   = "Kim, Hyun and Chang, Won and Chae, Seok Joo and Park, Jong-Eun
+              and Seo, Minseok and Kim, Jae Kyoung",
+  abstract = "High dimensionality and noise have limited the new biological
+              insights that can be discovered in scRNA-seq data. While
+              dimensionality reduction tools have been developed to extract
+              biological signals from the data, they often require manual
+              determination of signal dimension, introducing user bias.
+              Furthermore, a common data preprocessing method, log
+              normalization, can unintentionally distort signals in the data.
+              Here, we develop scLENS, a dimensionality reduction tool that
+              circumvents the long-standing issues of signal distortion and
+              manual input. Specifically, we identify the primary cause of
+              signal distortion during log normalization and effectively
+              address it by uniformizing cell vector lengths with L2
+              normalization. Furthermore, we utilize random matrix theory-based
+              noise filtering and a signal robustness test to enable
+              data-driven determination of the threshold for signal dimensions.
+              Our method outperforms 11 widely used dimensionality reduction
+              tools and performs particularly well for challenging scRNA-seq
+              datasets with high sparsity and variability. To facilitate the
+              use of scLENS, we provide a user-friendly package that automates
+              accurate signal detection of scRNA-seq data without manual
+              time-consuming tuning.",
+  journal  = "Nature Communications",
+  volume   =  15,
+  number   =  1,
+  pages    = "3575",
+  month    =  apr,
+  year     =  2024
 }
+
 
 @unpublished{PDEQSSA,
 title ={(In minor revision for PLoS Computational Biology) Beyond homogeneity: Assessing the validity of the Michaelis--Menten rate law in spatially heterogeneous Environments},
