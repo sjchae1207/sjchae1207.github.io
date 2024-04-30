@@ -92,6 +92,13 @@
     - year : 2015
       items:
         - KAIST Presidential Fellowship - KAIST 
+    - year : 2014
+      items: 
+        - Dean's List Award - KAIST College of Natural Sciences
+        - Silver Prize - Korean College Student Mathematics Competition
+    - year : 2013
+      items:
+        - Gold Prize - Korean College Student Mathematics Competition
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
