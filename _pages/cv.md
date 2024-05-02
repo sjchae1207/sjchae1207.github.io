@@ -7,5 +7,5 @@ nav_order: 2
 cv_pdf: CV_SJC_2024.pdf
 description: #
 toc:
-  sidebar: left
+  sidebar: right
 ---
