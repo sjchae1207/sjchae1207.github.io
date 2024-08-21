@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. (Ongoing)
+    - title: Ph.D. 
       institution: KAIST, Republic of Korea
       year: 2024
       description:
-        - "Ph.D. candidate in Mathematical Sciences (Advisor: Jae Kyoung Kim)"
+        - "Ph.D. in Mathematical Sciences (Advisor: Jae Kyoung Kim)"
         #Double quote not to make colon(:) result in error
       
     - title: B.Sc.
