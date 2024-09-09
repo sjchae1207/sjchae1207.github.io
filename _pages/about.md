@@ -9,8 +9,8 @@ profile:
   image: sjsjsj.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
-    <p>Department of Bioengineering</p>
+    <p>6500 Main St.</p>
+    <p>Dept. of Bioengineering</p>
     <p>Rice University</p>
 
 news: false  # includes a list of news items
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 --- 
 
-I am a postdoctoral associate in the Department of Bioengineering at Rice University.
+I am a postdoctoral associate in the Department of  at Rice University.
 My postdoc mentor is [Oleg Igoshin](https://igoshin.rice.edu/). 
 
 I received Ph.D. from [Department of Mathematical Sciences at KAIST](https://mathsci.kaist.ac.kr/home/en/), where I conducted my research under the mentorship of [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/).

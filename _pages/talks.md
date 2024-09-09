@@ -9,6 +9,9 @@ horizontal: false
 ---
 
 <h3>Invited Talks</h3>
+<h4>2024</h4>
+  - Society for Mathematical Biology Annual Meeting, Mini symposium, Seoul , Korea
+  - Busan University Mathematical Biology Seminar, Busan, Korea
 <h4>2023</h4> 
   - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Gwangju, Korea
   - The 8th CIJK International Conference on Mathematical and Theoretical Biology, Minisymposium, Jeju, Korea
