@@ -9,7 +9,7 @@ profile:
   image: sjsjsj.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>6500 Main St.</p>
+    <p>seokjoo[at]rice[dot]edu</p>
     <p>Dept. of Bioengineering</p>
     <p>Rice University</p>
 
