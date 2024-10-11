@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 --- 
 
-I am a postdoctoral associate in the Department of Bioengineering at Rice University.
+I am a postdoctoral associate in the [Department of Bioengineering at Rice University](https://bioengineering.rice.edu/).
 My postdoc mentor is [Oleg Igoshin](https://igoshin.rice.edu/). 
 
 I received Ph.D. from [Department of Mathematical Sciences at KAIST](https://mathsci.kaist.ac.kr/home/en/), where I conducted my research under the mentorship of [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/).
