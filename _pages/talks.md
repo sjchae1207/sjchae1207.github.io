@@ -10,6 +10,8 @@ horizontal: false
 
 <h3>Invited Talks</h3>
 <h4>2024</h4>
+  - Josić Group Lab seminar, University of Houston, Houston, TX, USA
+  - ACMS Applied Math Seminar, University of Notre Dame, Notre Dame, IN, USA
   - Society for Mathematical Biology Annual Meeting, Mini symposium, Seoul , Korea
   - Busan University Mathematical Biology Seminar, Busan, Korea
 <h4>2023</h4> 
