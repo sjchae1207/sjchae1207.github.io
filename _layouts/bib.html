@@ -34,10 +34,10 @@
         <!-- Title -->
         {% if entry.url %}
           <a href="{{entry.url}}">
-            <div class="title"><ins>{{ forloop.index }}. </ins>{{entry.title}}</div>
+            <div class="title">{{ forloop.index }}. {{entry.title}}</div>
           </a>
         {% else %}
-          <div class="title"><ins>{{ forloop.index }}. </ins>{{entry.title}}</div>
+          <div class="title">{{ forloop.index }}. {{entry.title}}</div>
         {% endif %}
         <!-- Author -->
         <div class="author">
