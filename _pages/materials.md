@@ -12,7 +12,7 @@ horizontal: false
 
 <h3>Writing</h3>
 1. [An open letter to graduate students and other procrastinators: it’s time to write](https://www.nature.com/articles/s41587-025-02584-1).  
-    *Writing is the only thing you do that matters.*
+    - *"Writing is the only thing you do that matters."*
 
 2. [Collectively building a mentor–mentee relationship through a one-day workshop](https://www.nature.com/articles/s41587-023-02056-4). 
 
