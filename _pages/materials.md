@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 display_categories: []
 horizontal: false
+toc: 
+  sidebar: true
 ---
 
 <h2>Helpful materials</h2>
@@ -21,5 +23,8 @@ horizontal: false
 
 <h3>Networking</h3>
 1. [Collectively building a mentor–mentee relationship through a one-day workshop](https://www.nature.com/articles/s41587-023-02056-4). 
+
+
+---
 
 <h2>Interesting papers beyond my research focus</h2>
