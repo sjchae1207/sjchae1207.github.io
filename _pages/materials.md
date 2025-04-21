@@ -8,7 +8,7 @@ nav_order: 4
 display_categories: []
 horizontal: false
 toc: 
-  sidebar: left
+  sidebar: right
 ---
 
 <h2>Helpful materials</h2>
