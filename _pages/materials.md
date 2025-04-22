@@ -9,6 +9,7 @@ display_categories: []
 horizontal: false
 toc: 
   sidebar: right
+  max_level: 3 
 ---
 
 <h2>Helpful materials</h2>
@@ -24,7 +25,8 @@ toc:
 <h3>Networking</h3>
 1. [Collectively building a mentor–mentee relationship through a one-day workshop](https://www.nature.com/articles/s41587-023-02056-4). 
 
-
+<h3>LLMs</h3>
+1. [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
 ---
 
 <h2>Interesting papers beyond my research focus</h2>
