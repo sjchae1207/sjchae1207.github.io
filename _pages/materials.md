@@ -27,6 +27,7 @@ toc:
 
 <h3>LLMs</h3>
 1. [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+2. [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 ---
 
 <h2>Interesting papers beyond my research focus</h2>
