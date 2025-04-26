@@ -276,7 +276,7 @@ scholar:
   last_name: [Chae, Chae+]
   first_name: [Seok Joo, Seokjoo]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
