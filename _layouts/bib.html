@@ -1,7 +1,6 @@
 ---
 ---
-<!-- _layouts/bib.html -->
-      <div class="row">
+<div class="row">
         {%- if site.enable_publication_thumbnails -%}
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
@@ -29,17 +28,18 @@
         </div>
         {%- endif -%}
 
-        <!-- Entry bib key -->
         <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-        <!-- Title -->
+
+        <span class="publication-number">{{ forloop.index }}. </span>
+
         {% if entry.url %}
           <a href="{{entry.url}}">
-            <div class="title">{{ forloop.index }}. {{entry.title}}</div>
+            <div class="title">{{entry.title}}</div> {# <--- Number removed from here #}
           </a>
         {% else %}
-          <div class="title">{{ forloop.index }}. {{entry.title}}</div>
+          <div class="title">{{entry.title}}</div> {# <--- Number removed from here #}
         {% endif %}
-        <!-- Author -->
+
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
 
@@ -108,14 +108,13 @@
                   if (++cursorPosition == more_authors_text.length){
                     clearInterval(textAdder);
                   }
-              }, '{{site.more_authors_animation_delay}}');
+                }, '{{site.more_authors_animation_delay}}');
               "
           >{{more_authors_hide}}</span>
         {%- endif -%}
 
         </div>
 
-        <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
@@ -142,7 +141,6 @@
           {{ entry.note | strip }}
         </div>
 
-          <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
@@ -230,14 +228,12 @@
           {%- endif %}
 
           {% if entry.abstract -%}
-          <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>{{ entry.abstract }}</p>
           </div>
           {%- endif -%}
 
           {% if entry.bibtex_show -%}
-          <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
