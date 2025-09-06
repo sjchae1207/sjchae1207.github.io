@@ -23,6 +23,8 @@ horizontal: false
 
 <h3>Contributed Talks and Posters</h3>
 <h4>2023</h4>
+  - ARPA-H ROGUE Site Visit, Poster, Pittsburg, PA, USA\\
+<h4>2023</h4>
   - International Congress on Industrial and Applied Mathematics, Contributed Talk, Tokyo, Japan
   - Society for Mathematical Biology Annual Meeting, Contributed Talk, Columbus, OH, USA
   - International Conference on Systems Biology, Contributed Talk, Hartford, CT, USA
