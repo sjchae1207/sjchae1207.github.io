@@ -22,7 +22,7 @@ horizontal: false
 
 
 <h3>Contributed Talks and Posters</h3>
-<h4>2023</h4>
+<h4>2025</h4>
   - ARPA-H ROGUE Site Visit, Poster, Pittsburg, PA, USA\\
 <h4>2023</h4>
   - International Congress on Industrial and Applied Mathematics, Contributed Talk, Tokyo, Japan
