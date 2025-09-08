@@ -21,6 +21,7 @@ toc:
 
 <h3>Reserach</h3>
 1. [Openness guides discovery](https://www.nature.com/articles/s41587-025-02635-7).
+2. [Why would anyone want to be a scientist? ](https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist).
 
 <h3>Networking</h3>
 1. [Collectively building a mentor–mentee relationship through a one-day workshop](https://www.nature.com/articles/s41587-023-02056-4). 
