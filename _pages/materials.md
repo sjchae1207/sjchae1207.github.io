@@ -19,7 +19,7 @@ toc:
 
 2. [The joy of writing a paper](https://publications.ersnet.org/content/breathe/4/3/224)
 
-<h3>Reserach</h3>
+<h3>Research</h3>
 1. [Openness guides discovery](https://www.nature.com/articles/s41587-025-02635-7).
 2. [Why would anyone want to be a scientist? ](https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist).
 
