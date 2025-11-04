@@ -26,10 +26,10 @@ toc:
 <h3>Networking</h3>
 1. [Collectively building a mentor–mentee relationship through a one-day workshop](https://www.nature.com/articles/s41587-023-02056-4). 
 
-<h3>LLMs</h3>
+<h3>AI/LLMs</h3>
 1. [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
 2. [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
-
+3. [PhD training needs a reboot in an AI world](https://www.nature.com/articles/d41586-025-03572-w)
 
 ---
 
