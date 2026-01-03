@@ -6,7 +6,7 @@ subtitle: Postdoctoral Associate in Igoshin Research group at Rice Univeristy
 
 profile:
   align: right
-  image: sjsjsj.png
+  image: sjsjsj.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>seokjoo[at]rice[dot]edu</p>
