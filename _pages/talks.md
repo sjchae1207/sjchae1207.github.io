@@ -9,6 +9,9 @@ horizontal: false
 ---
 
 <h3>Invited Talks</h3>
+<h4>2025</h4>
+  - Korea University BDSC seminar, Sejong, Korea
+  - Institute for Basic Science, BIMAG Seminar, Daejeon, Korea
 <h4>2024</h4>
   - Josić Group Lab seminar, University of Houston, Houston, TX, USA
   - ACMS Applied Math Seminar, University of Notre Dame, Notre Dame, IN, USA
