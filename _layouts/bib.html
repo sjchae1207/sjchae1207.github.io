@@ -35,10 +35,10 @@
 
         {% if entry.url %}
           <a href="{{entry.url}}">
-            <div class="title">[{{ forloop.rindex }}] {{entry.title}}</div>
+            <div class="title">{{entry.title}}</div>
           </a>
         {% else %}
-          <div class="title">[{{ forloop.rindex }}] {{entry.title}}</div>
+          <div class="title">{{entry.title}}</div>
         {% endif %}
         <!-- Author -->
         <div class="author">
