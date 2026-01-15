@@ -15,6 +15,6 @@ toc:
 *: (co-)corresponding authors
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} --style_name_first %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
