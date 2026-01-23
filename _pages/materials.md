@@ -32,7 +32,7 @@ toc:
 2. [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 3. [PhD training needs a reboot in an AI world](https://www.nature.com/articles/d41586-025-03572-w)
 4. [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
----
+
 
 <h2>Interesting papers beyond my research focus</h2>
 1. [Papers and patents are becoming less disruptive over time](https://www.nature.com/articles/s41586-022-05543-x)
