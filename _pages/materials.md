@@ -25,6 +25,7 @@ toc:
 2. [Why would anyone want to be a scientist?](https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist).
 3. [Making the  right moves](https://www.hhmi.org/sites/default/files/2023-10/making-the-right-moves-second-edition.pdf)
     - *Do not, under anycircumstances, wait until the collectionof data is ªcompleteº before starting to write an outline*
+    
 <h3>Careers</h3>
 1. [Finding the Right Graduate School: 7 Tips for Success](https://graduate.northeastern.edu/knowledge-hub/how-to-find-the-right-graduate-school/)
 
