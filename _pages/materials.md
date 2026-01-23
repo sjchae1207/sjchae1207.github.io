@@ -19,12 +19,12 @@ toc:
 2. [The joy of writing a paper](https://publications.ersnet.org/content/breathe/4/3/224)
 3. [Three tips for scientific writing: a guide for graduate students](https://www.nature.com/articles/d41586-025-03804-z)
 4. [Whitesides' Group: Writing a Paper](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767)
+    - *Do not, under anycircumstances, wait until the collection of data is "complete" before starting to write an outline*
 
 <h3>Research</h3>
 1. [Openness guides discovery](https://www.nature.com/articles/s41587-025-02635-7).
 2. [Why would anyone want to be a scientist?](https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist).
 3. [Making the  right moves](https://www.hhmi.org/sites/default/files/2023-10/making-the-right-moves-second-edition.pdf)
-    - *Do not, under anycircumstances, wait until the collection of data is "complete" before starting to write an outline*
 
 <h3>Careers</h3>
 1. [Finding the Right Graduate School: 7 Tips for Success](https://graduate.northeastern.edu/knowledge-hub/how-to-find-the-right-graduate-school/)
