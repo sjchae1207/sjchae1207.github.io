@@ -28,6 +28,7 @@ toc:
 
 <h3>Careers</h3>
 1. [Finding the Right Graduate School: 7 Tips for Success](https://graduate.northeastern.edu/knowledge-hub/how-to-find-the-right-graduate-school/)
+2. [Choosing to succeed? Insights into doctoral students’ supervisor selection and its outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328471)
 
 <h3>Presentations</h3>
 1. [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163)
