@@ -9,6 +9,9 @@ horizontal: false
 ---
 
 <h3>Invited Talks</h3>
+<h4>2026</h4>
+  - Korean Society for Mathematical Biology, Jeju, Korea
+  - Korean Mathematical Society Annual Meeting, Seoul, Korea
 <h4>2025</h4>
   - Korea University BDSC seminar, Sejong, Korea
   - Institute for Basic Science, BIMAG Seminar, Daejeon, Korea
@@ -25,9 +28,11 @@ horizontal: false
 
 
 <h3>Contributed Talks and Posters</h3>
+<h4>2026</h4>
+  - Society for Mathematical Biology Annual Meeting, Contributed Talk, Graz, Austria
 <h4>2025</h4>
   - The 68th Welch Conference, Poster, Houston, TX, USA
-  - ARPA-H ROGUE Site Visit, Poster, Pittsburg, PA, USA
+  - ARPA-H ROGUE Site Visit, Poster, Pittsburgh, PA, USA
 <h4>2023</h4>
   - International Congress on Industrial and Applied Mathematics, Contributed Talk, Tokyo, Japan
   - Society for Mathematical Biology Annual Meeting, Contributed Talk, Columbus, OH, USA
@@ -35,7 +40,6 @@ horizontal: false
   - Korean Biological Rhythm Society Symposium, Poster, Daejeon, Korea
 <h4>2022</h4>
   - Society for Research on Biological Rhythms, Biennial Meeting Poster, Fernandina Beach, FL, USA
-  - Korea Society for Industrial and Applied Mathematics Annual Meeting, Special session, Jeju, Korea
   - International Conference on Systems Biology, Contributed Talk, Berlin, Germany
   - Korean Biological Rhythm Society Symposium, Poster, Daejeon, Korea
 <h4>2021</h4>

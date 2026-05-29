@@ -69,8 +69,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - SMB Travel Grant - Society for Mathematical Biology
     - year: 2022
-      items: 
+      items:
         - Best Poster Award - Korean Biological Rhythm Society Symposium
     - year: 2021
       items: 
@@ -89,9 +92,12 @@
       items: 
         - Best Poster Award - KAIST Undergraduate Reserach Program Workshop
         - Bronze Prize - Korean College Student Mathematics Competition
-    - year : 2015
+    - year: 2015-2017
       items:
-        - KAIST Presidential Fellowship - KAIST 
+        - KAIST Presidential Fellowship - KAIST
+    - year: 2013-2017
+      items:
+        - The National Scholarship for Science and Engineering (Full Tuition) - KOSAF
     - year : 2014
       items: 
         - Dean's List Award - KAIST College of Natural Sciences
