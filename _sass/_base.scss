@@ -506,6 +506,20 @@ footer.sticky-bottom {
   }
 }
 
+// Affiliation / subtitle line on the about page — set apart from the
+// descriptive body paragraphs below it.
+.post-header .desc {
+  display: inline-block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--global-theme-color);
+  color: var(--global-theme-color);
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
