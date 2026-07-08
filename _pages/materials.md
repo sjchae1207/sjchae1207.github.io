@@ -38,10 +38,12 @@ toc:
 1. [Collectively building a mentor–mentee relationship through a one-day workshop](https://www.nature.com/articles/s41587-023-02056-4). 
 
 <h3>AI/LLMs</h3>
-1. [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
-2. [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
-3. [PhD training needs a reboot in an AI world](https://www.nature.com/articles/d41586-025-03572-w)
-4. [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+1. [Instead of banning AI, I made a classroom contract with my students](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
+2. [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+3. [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
+4. [PhD training needs a reboot in an AI world](https://www.nature.com/articles/d41586-025-03572-w)
+5. [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+
 
 
 <h2>Interesting papers beyond my research focus</h2>
