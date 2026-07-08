@@ -13,13 +13,6 @@ toc:
 ---
 
 <h2>Helpful materials</h2>
-<h3>Writing</h3>
-1. [An open letter to graduate students and other procrastinators: it’s time to write](https://www.nature.com/articles/s41587-025-02584-1).  
-    - *Writing is the only thing you do that matters.*
-2. [The joy of writing a paper](https://publications.ersnet.org/content/breathe/4/3/224)
-3. [Three tips for scientific writing: a guide for graduate students](https://www.nature.com/articles/d41586-025-03804-z)
-4. [Whitesides' Group: Writing a Paper](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767)
-    - *Do not, under any circumstances, wait until the collection of data is "complete" before starting to write an outline*
 
 <h3>Research</h3>
 1. [Openness guides discovery](https://www.nature.com/articles/s41587-025-02635-7).
@@ -29,6 +22,14 @@ toc:
 <h3>Careers</h3>
 1. [Finding the Right Graduate School: 7 Tips for Success](https://graduate.northeastern.edu/knowledge-hub/how-to-find-the-right-graduate-school/)
 2. [Choosing to succeed? Insights into doctoral students’ supervisor selection and its outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328471)
+
+<h3>Writing</h3>
+1. [An open letter to graduate students and other procrastinators: it’s time to write](https://www.nature.com/articles/s41587-025-02584-1).  
+    - *Writing is the only thing you do that matters.*
+2. [The joy of writing a paper](https://publications.ersnet.org/content/breathe/4/3/224)
+3. [Three tips for scientific writing: a guide for graduate students](https://www.nature.com/articles/d41586-025-03804-z)
+4. [Whitesides' Group: Writing a Paper](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767)
+    - *Do not, under any circumstances, wait until the collection of data is "complete" before starting to write an outline*
 
 <h3>Presentations</h3>
 1. [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163)
